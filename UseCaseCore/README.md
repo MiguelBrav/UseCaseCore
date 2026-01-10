@@ -25,6 +25,9 @@ This library is framework-agnostic and compatible with **.NET Standard 2.1**, ma
 ## Installation
 
 Install from NuGet:
-dotnet add package UseCaseCore
+dotnet add package MiguelBrav.UseCaseCore
 
 Or reference the DLL directly in your project.
+
+You can consume check the nuget using this URL: "https://www.nuget.org/packages/UseCaseCore".
+
